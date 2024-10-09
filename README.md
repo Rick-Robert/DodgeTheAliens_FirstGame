@@ -5,7 +5,8 @@ Used by the "Your first 2D game" tutorial:
 https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html
 
 # Some information about the project
-    This game was done using godot with vscode in c# programming language, this is the reason it also has the directory .vscode, wich contains the json files for building the project (those files were copied from godot site). 
+    This game was done using godot with vscode in c# programming language, this is the reason it also has the directory .vscode, wich contains the json files for building the project (those files were copied from godot site).
+    Contains executable. 
 
 # List of modifications from the original project
 * Octdirectional movement includes rotation of the player in movement direction
